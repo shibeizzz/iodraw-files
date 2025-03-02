@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-16" value="适应度提升" style="rhombus;rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="200" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-18" target="lhgsjd2jgiDLkwHPTC5z-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-18" value="更新pbest" style="rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="200" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-20" target="lhgsjd2jgiDLkwHPTC5z-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
