@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="5CJjoaij0mfW233q73VB">
-    <mxGraphModel dx="488" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,12 +132,6 @@
         <mxCell id="N8AqtGr0P6i5Vjsb_pib-35" value="局部搜索" style="rounded=1;fontSize=10;textShadow=0;labelBackgroundColor=default;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="380" y="900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N8AqtGr0P6i5Vjsb_pib-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;jumpSize=2;endSize=4;startSize=3;fontSize=10;textShadow=0;labelBackgroundColor=default;html=1;verticalAlign=middle;" edge="1" parent="1" source="N8AqtGr0P6i5Vjsb_pib-23" target="N8AqtGr0P6i5Vjsb_pib-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="470" as="sourcePoint" />
-            <mxPoint x="630" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N8AqtGr0P6i5Vjsb_pib-37" value="&lt;span style=&quot;text-align: left; font-size: 10px;&quot;&gt;局部最陡上升策略&lt;/span&gt;" style="rounded=1;fontSize=10;textShadow=0;labelBackgroundColor=default;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="550" y="520" width="120" height="40" as="geometry" />
         </mxCell>
@@ -147,7 +141,7 @@
         <mxCell id="N8AqtGr0P6i5Vjsb_pib-39" value="更新速度" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N8AqtGr0P6i5Vjsb_pib-41" value="" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="N8AqtGr0P6i5Vjsb_pib-41" value="更新位置" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
