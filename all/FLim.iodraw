@@ -55,7 +55,7 @@
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-18" target="lhgsjd2jgiDLkwHPTC5z-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="810" />
+              <mxPoint x="70" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-29" value="更新Gbest" style="rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="310" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-32" target="lhgsjd2jgiDLkwHPTC5z-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
