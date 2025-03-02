@@ -144,8 +144,8 @@
         <mxCell id="N8AqtGr0P6i5Vjsb_pib-41" value="更新位置" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N8AqtGr0P6i5Vjsb_pib-43" value="" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="N8AqtGr0P6i5Vjsb_pib-43" value="更新速度" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
