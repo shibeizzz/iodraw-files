@@ -65,7 +65,7 @@
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-20" target="lhgsjd2jgiDLkwHPTC5z-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lhgsjd2jgiDLkwHPTC5z-20" value="隔代未提升, 进行二邻搜索" style="rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="lhgsjd2jgiDLkwHPTC5z-20" value="隔代未提升,&amp;nbsp;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; word-spacing: normal; background-color: rgb(250, 250, 250); text-align: left;&quot;&gt;地形跨越&lt;/span&gt;" style="rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="270" y="680" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-30" target="lhgsjd2jgiDLkwHPTC5z-25" edge="1">
