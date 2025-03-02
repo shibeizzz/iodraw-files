@@ -137,7 +137,7 @@
             <mxPoint x="620" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lhgsjd2jgiDLkwHPTC5z-30" value="&lt;span style=&quot;text-align: left; font-size: 10px;&quot;&gt;梯度驱动&lt;/span&gt;" style="rounded=1;fontSize=10;textShadow=0;labelBackgroundColor=default;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="lhgsjd2jgiDLkwHPTC5z-30" value="&lt;span style=&quot;text-align: left; font-size: 10px;&quot;&gt;局部上升策略&lt;/span&gt;" style="rounded=1;fontSize=10;textShadow=0;labelBackgroundColor=default;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="530" y="350" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
