@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-27" value="定期重启粒子位置" style="rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="530" y="480" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-29" target="lhgsjd2jgiDLkwHPTC5z-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
