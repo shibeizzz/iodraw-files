@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-2" value="计算适应度地形" style="rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-4" target="lhgsjd2jgiDLkwHPTC5z-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-4" value="初始化种群" style="rounded=1;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lhgsjd2jgiDLkwHPTC5z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;jumpSize=2;endSize=4;startSize=3;fontSize=14;textShadow=0;labelBackgroundColor=none;html=1;verticalAlign=middle;" parent="1" source="lhgsjd2jgiDLkwHPTC5z-6" target="lhgsjd2jgiDLkwHPTC5z-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
